@@ -1,6 +1,6 @@
-﻿# 🥔 Batata Mania - Página de Links (Bio Link)
+# 🥔 Batata Mania - Página de Links (Bio Link)
 
-Página oficial de links estilo *Bento / Linktree* da **Batata Mania** (@batatatamania.cassi), desenvolvida com foco em alta conversão, performance, responsividade e design exclusivo.
+Página oficial de links estilo *Bento / Linktree* da **Batata Mania** (@batatamania.cassi), desenvolvida com foco em alta conversão, performance, responsividade e design exclusivo.
 
 ---
 
