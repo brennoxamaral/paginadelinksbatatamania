@@ -13,9 +13,13 @@ Página oficial de links estilo *Bento / Linktree* da **Batata Mania** (@batatam
 - **Redes Sociais:** Acesso rápido ao Instagram e TikTok.
 - **Vitrine de Produtos Recomendados:**
   - Kit 365 Versículos (Site oficial)
-  - Potes Térmicos FIBRAFORM (Shopee)
-  - Panela Elétrica (Shopee)
-  - Frigideira Dupla (Shopee)
+  - Potes Térmicos FIBRAFORM (Mercado Livre)
+  - Panela Elétrica (Mercado Livre)
+  - Frigideira Dupla (Mercado Livre)
+  - Seladora de Filme PVC (Mercado Livre)
+  - Amassador inox (Mercado Livre)
+  - Multiprocessador 5 em 1 (Mercado Livre)
+  - Afiador Elétrico (Mercado Livre)
 - **Otimizações Modernas:**
   - `fetchpriority="high"` e `decoding="async"` para carregamento rápido.
   - Fallbacks dinâmicos em SVG caso imagens externas falhem.
